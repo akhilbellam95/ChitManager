@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     fontFamily: 'times',
   },
   row: {
-    marginVertical: 30,
+    marginHorizontal: 30,
     justifyContent: 'space-around',
     flex: 1,
     flexDirection: 'row',
